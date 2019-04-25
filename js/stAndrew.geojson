@@ -1,0 +1,749 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "General Keith stifter en loge i Stockholm 1743 - 1744,",
+        "year": 1743
+      },
+      "geometry": {
+        "coordinates": [
+          18.0678,
+          59.326624
+        ],
+        "type": "Point"
+      },
+      "id": "027a844c0fb40953a80b0dc9b18c0356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Tschoudy WM in the ecossais lodge Ancienne",
+        "year": 1750,
+        "source": "Carleson, Acta 21: 58"
+      },
+      "geometry": {
+        "coordinates": [
+          6.171875,
+          49.117529
+        ],
+        "type": "Point"
+      },
+      "id": "145ee280e7b0f7e5af992ca9e1dfe40f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Paris",
+        "what": "Ramsay's Oration in the lodge Le Louis d'Argent. Higher degrees - active or imaginative?",
+        "year": 1736
+      },
+      "geometry": {
+        "coordinates": [
+          2.346833,
+          48.855124
+        ],
+        "type": "Point"
+      },
+      "id": "14a8bc3ed5aa9c701ffc02e8497f239b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Martinism: En 1767, il rencontre Dom MARTINEZ de PASQUALLY Fondateur de l'Ordre des Chevaliers Maçons Élus Coëns, et dèsmai 1768, il est initié ELU COENS au grade supérieur de Reau-Croix.",
+        "year": 1767,
+        "where": "Lyon"
+      },
+      "geometry": {
+        "coordinates": [
+          4.84096,
+          45.757512
+        ],
+        "type": "Point"
+      },
+      "id": "155d240190f97a1d47429bab6f824478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Ecossais lodge founded by Br. Tschoudy.",
+        "year": 1753,
+        "source": "Carleson, Acta 21: 65 ff."
+      },
+      "geometry": {
+        "coordinates": [
+          6.162949,
+          49.120169
+        ],
+        "type": "Point"
+      },
+      "id": "19fe671a9b28724a42554a3c3f33c5fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Hamburg",
+        "what": "Friedrich Ludwig Schröder (1744 -1816) . Editor of a vast collection of masonic high degree rituals from 1801 - 1808. Theory: the scottish degrees are of Jacobite origin. Mentions Knight of the Thistle.  "
+      },
+      "geometry": {
+        "coordinates": [
+          9.988477,
+          53.555152
+        ],
+        "type": "Point"
+      },
+      "id": "212e348631af73fbb794d605fc135446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Swedish Rite 1776/77. Akten von Herzog Carl von Södermanland. (Ed. Schröder)",
+        "year": 1776,
+        "source": "Feddersen 2001: 97 ff. Die Anfänge"
+      },
+      "geometry": {
+        "coordinates": [
+          18.064426,
+          59.325093
+        ],
+        "type": "Point"
+      },
+      "id": "2746c1cca24c1bc24ea0872b28c5e9c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Capitre Clairmont"
+      },
+      "geometry": {
+        "coordinates": [
+          2.349684,
+          48.854716
+        ],
+        "type": "Point"
+      },
+      "id": "2e81906911224b55ff779d35621ab0b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "1743 a masonic lodge founded. 1744: ecossais masons. St. Martin. According to Carleton there is a connection between the lodgename and St. Martin of Tours, and the countries Gallia and Scotland",
+        "year": 1744,
+        "source": "Carleson, Acta 21: 62, Thykjær 2008"
+      },
+      "geometry": {
+        "coordinates": [
+          12.591237,
+          55.683974
+        ],
+        "type": "Point"
+      },
+      "id": "324ebba4c8360629e9fcdd6bb332a8a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Knut Carlsson Posse founding a ecossais lodge.",
+        "year": 1753
+      },
+      "geometry": {
+        "coordinates": [
+          18.065111,
+          59.324926
+        ],
+        "type": "Point"
+      },
+      "id": "333b76d113aa28859d6f9824a25de70f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "St. Paul's Churchyard - the Goose and Gridiron Alehouse. ",
+        "what": "Premier Grand Lodge founded according to James Anderson on the day of St. John.",
+        "year": 1717,
+        "month": 7,
+        "day": 24,
+        "source": "Anderson 1723, 1738",
+        "url": "http://www.phoenixmasonry.org/goose_and_gridiron_ale-house.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.097219,
+          51.513892
+        ],
+        "type": "Point"
+      },
+      "id": "3a2decf22b1719ab9d65f76fef79f192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "St. Mary's Chapel - first known lodge in Edinburgh. Minutes from 1599.  Operative masons.",
+        "year": 1599,
+        "url": "https://en.wikipedia.org/wiki/Lodge_of_Edinburgh_(Mary%27s_Chapel)_No._1"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.215658,
+          55.948789
+        ],
+        "type": "Point"
+      },
+      "id": "41c4c4a118b922740539c65f0393d120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Loge: Aux Trois Globes / Zu den Drei Weltkugeln. Founded by Friedrich der Grosse.",
+        "year": 1739,
+        "url": "https://en.wikipedia.org/wiki/Frederick_the_Great"
+      },
+      "geometry": {
+        "coordinates": [
+          13.387106,
+          52.517087
+        ],
+        "type": "Point"
+      },
+      "id": "54f3e91071f25a8b034f6e903cab80e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Eckleff: Ecossais lodge L'Innocente founded",
+        "year": 1756,
+        "month": 11,
+        "day": 30
+      },
+      "geometry": {
+        "coordinates": [
+          18.066015,
+          59.329377
+        ],
+        "type": "Point"
+      },
+      "id": "57732f99d34efa66c91303a62cb24385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Hamburg",
+        "what": "The danish mason Frederik Dahl initiated in a Ecossais lodge. The lodge had a patent from La trés sublime loge écoisse, Berlin",
+        "year": 1744
+      },
+      "geometry": {
+        "coordinates": [
+          9.98706,
+          53.556157
+        ],
+        "type": "Point"
+      },
+      "id": "65957347cb30eb82f02f1d1ad8b7a3ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Glenfinnan",
+        "what": "Bonnie Prince Charlie in Scotland with Jacobite troups. ",
+        "year": 1745,
+        "month": 8,
+        "day": 19,
+        "source": "Thykjær 2008",
+        "url": "https://en.wikipedia.org/wiki/Charles_Edward_Stuart#%22The_'45%22"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.437042,
+          56.869169
+        ],
+        "type": "Point"
+      },
+      "id": "6de2e5e61dbba8240ffd1b7bcfa2d306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Frascati Cathedral",
+        "what": "Bonnie Prince Charlie dies. Buried in the Frascati Cathedral.",
+        "year": 1788,
+        "month": 1,
+        "day": 31,
+        "source": "Thykjær 2008",
+        "url": "https://en.wikipedia.org/wiki/Charles_Edward_Stuart#Death_and_burial"
+      },
+      "geometry": {
+        "coordinates": [
+          12.681262,
+          41.807555
+        ],
+        "type": "Point"
+      },
+      "id": "726de1c5135aeca8c69a572fb31a1765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Ecossais Lodge founded: Carl til Løven som igen rejser sig.",
+        "year": 1819,
+        "month": 6,
+        "day": 11,
+        "url": "https://da.wikipedia.org/wiki/Carl_af_Hessen"
+      },
+      "geometry": {
+        "coordinates": [
+          12.586568,
+          55.682812
+        ],
+        "type": "Point"
+      },
+      "id": "84fcc460e3fec996ec290e69eb95d5db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Le Rite Hermetique ca. 1743",
+        "year": 1743
+      },
+      "geometry": {
+        "coordinates": [
+          5.377781,
+          43.296316
+        ],
+        "type": "Point"
+      },
+      "id": "8f3435c4674daff42c37c3d39404e04c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Ecossais lodge founded by Br. Tschoudy.",
+        "year": 1753,
+        "source": "Carleson, Acta 21: 58"
+      },
+      "geometry": {
+        "coordinates": [
+          30.31242,
+          59.949481
+        ],
+        "type": "Point"
+      },
+      "id": "90f2c095aaf3c98622f012189c343cac"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          18.067356,
+          59.326557
+        ],
+        "type": "Point"
+      },
+      "id": "98537d5b840670667763d9c45f8fb442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "count Wrede-Sparre initiated in freemasonry around 1731 or so. Probably in a jacobite lodge.",
+        "year": 1731
+      },
+      "geometry": {
+        "coordinates": [
+          2.346251,
+          48.857031
+        ],
+        "type": "Point"
+      },
+      "id": "a5b99c284494dea396820036524ebebf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "General Keith founding a masonic lodge",
+        "year": 1732,
+        "source": "Carleson, Acta 21: 65 ff."
+      },
+      "geometry": {
+        "coordinates": [
+          30.318729,
+          59.950687
+        ],
+        "type": "Point"
+      },
+      "id": "a5eae10eac3204ff393b2fe543e7b29d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Eckleff founds the chapter Illuminée",
+        "year": 1759,
+        "month": 12,
+        "day": 25,
+        "source": "Carleson, Acta 21: 62"
+      },
+      "geometry": {
+        "coordinates": [
+          18.066088,
+          59.329327
+        ],
+        "type": "Point"
+      },
+      "id": "ac8bb9da6fbf5ceb60605875fce6be73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Rome",
+        "what": "Bonnie Prince Charlie's heart buried in the tomb of the Royal Stuarts in St. Peter's Basilica.",
+        "day": "",
+        "year": 1788,
+        "month": "",
+        "source": "Thykjær 2008",
+        "url": "https://en.wikipedia.org/wiki/Monument_to_the_Royal_Stuarts"
+      },
+      "geometry": {
+        "coordinates": [
+          12.453343,
+          41.902153
+        ],
+        "type": "Point"
+      },
+      "id": "b3afac2b70a6832e182888862fe37e94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Culloden Battlefield",
+        "what": "The battle at Culloden. Jacobite army defeated.",
+        "year": 1746,
+        "month": 4,
+        "day": 16,
+        "source": "Thyjkær 2008",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Culloden"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.100027,
+          57.477557
+        ],
+        "type": "Point"
+      },
+      "id": "b60c72191a6bde1e7d0feed0b9e6e86f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "En 1760, se crée, sur son initiative,la « Grande Loge des Maîtres Réguliers de Lyon » à l’instar de celle de Paris. Ils suivent alors le Rite en 7 degrés : Apprenti, Compagnon, Maître, Maître-Parfait, Maître-Elu, Maître Ecossais et Chevalier d’Orient. Un an plus tard, ils ont progressé à pas de géants puisqu’ils déclarent pratiquer 25 grades dont celui de Chevalier de l’Aigle, du Pélican, de Saint André ou Maçon d’Hérédon,c’est-à-dire Rose-Croix qui couronne l’ensemble. Une fois averti des secrets de ce grade de Rose-Croix, en 1765, WILLERMOZ fonde, toujours à Lyon, le « Chapitre des Chevaliers de l’Aigle Noir, Rose-Croix » ; c’est certainement le plus ancien Chapitre Rose-Croix d’existence officialisée.",
+        "url": "https://www.etudier.com/dissertations/Les-Origines-Du-Rite-Ecossais-Rectifie/128862.html"
+      },
+      "geometry": {
+        "coordinates": [
+          4.84302,
+          45.757871
+        ],
+        "type": "Point"
+      },
+      "id": "b6d2a09ab1a56a02e0f311fca0b46584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Ecossais lodge: Grimsen. Br. Horn was active here.",
+        "year": 1753,
+        "source": "Carleson, Acta 21: 58"
+      },
+      "geometry": {
+        "coordinates": [
+          18.067356,
+          59.326557
+        ],
+        "type": "Point"
+      },
+      "id": "ccd10b6f42c3a9d3f7f57ee4dcb345f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Rite of Strict Observance founded. Seven degrees: I-II-III, IV Scottish Master, V Novice, VI Knight, Alchemist ",
+        "where": "Unvürde",
+        "url": "https://en.wikipedia.org/wiki/Karl_Gotthelf_von_Hund#The_Rite_of_Strict_Observance",
+        "year": 1764
+      },
+      "geometry": {
+        "coordinates": [
+          14.675391,
+          51.123368
+        ],
+        "type": "Point"
+      },
+      "id": "d080626710e07eae8003b66c34b0137e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Knut Carlsson Posse founding a ecossais lodge.",
+        "year": 1735,
+        "month": 3,
+        "day": 17,
+        "url": "https://sv.wikipedia.org/wiki/Svenska_Frimurare_Orden#Den_f%C3%B6rsta_tiden"
+      },
+      "geometry": {
+        "coordinates": [
+          18.063779,
+          59.325397
+        ],
+        "type": "Point"
+      },
+      "id": "e805e104166828d11713663e2ae30416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Roma",
+        "what": "Charles Edward Stuart born in Rome. ",
+        "year": 1720,
+        "month": 12,
+        "day": 31,
+        "source": "Thykjær 2008",
+        "url": "https://en.wikipedia.org/wiki/Charles_Edward_Stuart"
+      },
+      "geometry": {
+        "coordinates": [
+          12.484839,
+          41.895104
+        ],
+        "type": "Point"
+      },
+      "id": "edaf4af24d671a8559f5730d5d3e430d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Le Rite Ecossais Philosophique (offspring of Le Rite Philosophique)",
+        "year": 1776,
+        "source": "Carleson, Acta 21: 57",
+        "url": "https://legende-hiram.blogspot.com/2012/03/1784-rituel-de-rose-croix-au-rite.html"
+      },
+      "geometry": {
+        "coordinates": [
+          2.35116,
+          48.856156
+        ],
+        "type": "Point"
+      },
+      "id": "fa7a82e528e36808271785586289ae12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q160599",
+        "place_name": "Unwürde, 02708, Löbau, Sachsen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          14.675,
+          51.123611
+        ],
+        "type": "Point"
+      },
+      "id": "locality.13516824889025320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "month": 6,
+        "place_name": "Ayr, Ayr, South Ayrshire, Scotland, United Kingdom",
+        "what": "Chevalier Ramsay (1686 - 1743)",
+        "where": "Ayr, Scotland",
+        "year": 1686,
+        "url": "https://en.wikipedia.org/wiki/Andrew_Michael_Ramsay"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.6327,
+          55.4594
+        ],
+        "type": "Point"
+      },
+      "id": "locality.7979879440461890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q456",
+        "place_name": "Lyon, Rhône, France",
+        "what": "Martinist lodge la Bienfaicence.. At the Convent National des Gaules. Systeme Ecossais Rectifiers. Chevaliers Bienfaisants de le Cité Sainte.",
+        "year": 1778,
+        "source": "Lennhof 1932: Lyoner system, 971",
+        "url": "https://fr.wikipedia.org/wiki/Chevalier_bienfaisant_de_la_Cit%C3%A9_sainte",
+        "where": "Lyon"
+      },
+      "geometry": {
+        "coordinates": [
+          4.84139,
+          45.75889
+        ],
+        "type": "Point"
+      },
+      "id": "place.17006815682783930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1013827",
+        "place_name": "Kilwinning, North Ayrshire, Scotland, United Kingdom",
+        "what": "Mother Lodge Kilwinning. Perhaps founded in the 12th century.",
+        "url": "https://en.wikipedia.org/wiki/Lodge_Mother_Kilwinning",
+        "year": 1300
+      },
+      "geometry": {
+        "coordinates": [
+          -4.7,
+          55.65
+        ],
+        "type": "Point"
+      },
+      "id": "place.3976181534703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1016944",
+        "place_name": "Peterhead, Aberdeenshire, Scotland, United Kingdom",
+        "what": "General Keith (1696-1758) born. Jacobite and general.",
+        "year": 1696
+      },
+      "geometry": {
+        "coordinates": [
+          -1.7832,
+          57.5091
+        ],
+        "type": "Point"
+      },
+      "id": "place.5352041912250109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q23482",
+        "place_name": "Marseille, Bouches-du-Rhône, France",
+        "what": "Ecossais lodge from 1743: St John of Scotland, with a patent from Edinburgh.",
+        "year": 1743
+      },
+      "geometry": {
+        "coordinates": [
+          5.37639,
+          43.29667
+        ],
+        "type": "Point"
+      },
+      "id": "place.6137063676036310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q6397",
+        "place_name": 1776,
+        "year": 1740,
+        "source": "Carleson, Acta 21: 57"
+      },
+      "geometry": {
+        "coordinates": [
+          4.80833,
+          43.94861
+        ],
+        "type": "Point"
+      },
+      "id": "place.6646682874748330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1794",
+        "place_name": "Frankfurt am Main, Hessen, Germany",
+        "what": "Carl G. von Hund initiated I.",
+        "year": 1742
+      },
+      "geometry": {
+        "coordinates": [
+          8.67972,
+          50.11361
+        ],
+        "type": "Point"
+      },
+      "id": "place.7300924236190980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q28287",
+        "place_name": "Ystad, Skåne län, Sweden",
+        "what": "Masonic lodge formed by jacobite officers in exile: den Kilwinniska logen",
+        "year": 1746,
+        "source": "Carleson, Acta 21: 55"
+      },
+      "geometry": {
+        "coordinates": [
+          13.82083,
+          55.43056
+        ],
+        "type": "Point"
+      },
+      "id": "place.8228265999341266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1754",
+        "place_name": "Stockholm, Stockholms län, Sweden",
+        "what": "General Keith (1696 - 1758) is WM in a lodge in Stockholm. 1743 - 44.",
+        "year": 1743,
+        "source": ""
+      },
+      "geometry": {
+        "coordinates": [
+          18.06861,
+          59.32944
+        ],
+        "type": "Point"
+      },
+      "id": "place.8989083981577552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q22690",
+        "place_name": "Metz, Moselle, France",
+        "what": "Initiated ecossais: Posse (1746), Fredrik Horn (1748)",
+        "year": 1746
+      },
+      "geometry": {
+        "coordinates": [
+          6.17694,
+          49.11972
+        ],
+        "type": "Point"
+      },
+      "id": "place.9195409588929120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "FR-75",
+        "wikidata": "Q90",
+        "place_name": "Paris, France",
+        "what": "Carl G. von Hund claims templar initiation.  Asumes that the master of the lodge was Charles Edward Stuart. (Fake?) patent.",
+        "year": 1743
+      },
+      "geometry": {
+        "coordinates": [
+          2.35183,
+          48.85658
+        ],
+        "type": "Point"
+      },
+      "id": "place.9397217726497330"
+    }
+  ],
+  "type": "FeatureCollection"
+}

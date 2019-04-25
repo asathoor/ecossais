@@ -1,0 +1,393 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "day": 23,
+        "month": 5,
+        "place_name": "",
+        "short_code": "",
+        "url": "http://bitly.com/2VkhloJ",
+        "what": "Convent Braunschweig. The THO thesis rejected. Gugomos appears.",
+        "wikidata": "",
+        "year": 1775
+      },
+      "geometry": {
+        "coordinates": [
+          10.527431,
+          52.263326
+        ],
+        "type": "Point"
+      },
+      "id": "63a8ce2e05a361149c0ab13ae37ef844"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Glenfinnan",
+        "what": "Bonnie Prince Charlie in Scotland with Jacobite troups. ",
+        "year": 1745,
+        "month": 8,
+        "day": 19,
+        "source": "Thykjær 2008",
+        "url": "https://en.wikipedia.org/wiki/Charles_Edward_Stuart#%22The_'45%22"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.437042,
+          56.869169
+        ],
+        "type": "Point"
+      },
+      "id": "6de2e5e61dbba8240ffd1b7bcfa2d306"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Frascati Cathedral",
+        "what": "Bonnie Prince Charlie dies. Buried in the Frascati Cathedral.",
+        "year": 1788,
+        "month": 1,
+        "day": 31,
+        "source": "Thykjær 2008",
+        "url": "https://en.wikipedia.org/wiki/Charles_Edward_Stuart#Death_and_burial"
+      },
+      "geometry": {
+        "coordinates": [
+          12.681262,
+          41.807555
+        ],
+        "type": "Point"
+      },
+      "id": "726de1c5135aeca8c69a572fb31a1765"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Culloden Battlefield",
+        "what": "The battle at Culloden. Jacobite army defeated.",
+        "year": 1746,
+        "month": 4,
+        "day": 16,
+        "source": "Thyjkær 2008",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Culloden"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.100027,
+          57.477557
+        ],
+        "type": "Point"
+      },
+      "id": "b60c72191a6bde1e7d0feed0b9e6e86f"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1794",
+        "place_name": "Frankfurt am Main, Hessen, Germany",
+        "what": "Carl G. von Hund initiated I.",
+        "year": 1742
+      },
+      "geometry": {
+        "coordinates": [
+          8.67972,
+          50.11361
+        ],
+        "type": "Point"
+      },
+      "id": "place.7300924236190980"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q160599",
+        "place_name": "Unwürde, 02708, Löbau, Sachsen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          14.675,
+          51.123611
+        ],
+        "type": "Point"
+      },
+      "id": "locality.13516824889025320"
+    },
+
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Rite of Strict Observance founded. Seven degrees: I-II-III, IV Scottish Master, V Novice, VI Knight, Alchemist ",
+        "where": "Unvürde",
+        "url": "https://en.wikipedia.org/wiki/Karl_Gotthelf_von_Hund#The_Rite_of_Strict_Observance",
+        "year": 1764
+      },
+      "geometry": {
+        "coordinates": [
+          14.675391,
+          51.123368
+        ],
+        "type": "Point"
+      },
+      "id": "d080626710e07eae8003b66c34b0137e"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "FR-75",
+        "wikidata": "Q90",
+        "place_name": "Paris, France",
+        "what": "Carl G. von Hund claims templar initiation.  Asumes that the master of the lodge was Charles Edward Stuart. (Fake?) patent.",
+        "year": 1743
+      },
+      "geometry": {
+        "coordinates": [
+          2.35183,
+          48.85658
+        ],
+        "type": "Point"
+      },
+      "id": "place.9397217726497330"
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "day": 16,
+        "month": 6,
+        "place_name": "",
+        "short_code": "",
+        "url": "http://bitly.com/2VkhloJ",
+        "what": "Conference Wilhelmsbad: concludes that the THO game is over. SO falls. Rectified Rite emerges.",
+        "wikidata": "",
+        "year": 1782
+      },
+      "geometry": {
+        "coordinates": [
+          8.883063,
+          50.148477
+        ],
+        "type": "Point"
+      },
+      "id": "9a129b3d21f7df8daf494d36fce4839b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "day": 24,
+        "month": 8,
+        "place_name": "",
+        "short_code": "",
+        "url": "",
+        "what": "Act of Union between SO / SR. Amity pact. But no unknown superiors appear. R+C impostors - the Duke of Sudermania withdraws from SO. ",
+        "wikidata": "",
+        "year": 1779
+      },
+      "geometry": {
+        "coordinates": [
+          10.527329,
+          52.263127
+        ],
+        "type": "Point"
+      },
+      "id": "af917bf0811f8c0a0f87fa27ad5601a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "day": 28,
+        "month": 7,
+        "place_name": "",
+        "short_code": "",
+        "url": "http://bitly.com/2VkhloJ",
+        "what": "The Duke of Sudermania elected GM of SO. Clerics withdraw. Drei Weltkugeln retires from SO. Danish GL protest.",
+        "wikidata": "",
+        "year": 1778
+      },
+      "geometry": {
+        "coordinates": [
+          13.381956,
+          52.517034
+        ],
+        "type": "Point"
+      },
+      "id": "e76672aaf603ad61e2b6749f6418f909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q7030",
+        "place_name": "Wismar, Mecklenburg-Vorpommern, Germany",
+        "day": 17,
+        "month": 2,
+        "short_code": "",
+        "url": "http://bitly.com/2VkhloJ",
+        "what": "Clerici Ordinis Templarii - founded by Starck (1741-1816). Lodge \"Three Lions\". Fiction: the THO divided in two sections military and clerics. Esoteric secrets claimed, but no proof of concept.",
+        "year": 1767
+      },
+      "geometry": {
+        "coordinates": [
+          11.465,
+          53.8925
+        ],
+        "type": "Point"
+      },
+      "id": "place.12432803154066970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "DE-BE",
+        "wikidata": "Q64",
+        "place_name": "Berlin, Germany",
+        "day": "",
+        "month": "",
+        "url": "http://bitly.com/2VkhloJ",
+        "what": "Zinnendorf founding a Swedish Rite Order. Rival to S.O.  Foundation of the National GL.",
+        "year": 1766
+      },
+      "geometry": {
+        "coordinates": [
+          13.38333,
+          52.51667
+        ],
+        "type": "Point"
+      },
+      "id": "place.14880313158564380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q968",
+        "place_name": "Warburg, Nordrhein-Westfalen, Germany",
+        "what": "The impostor Johnson dies in prison.",
+        "day": 13,
+        "month": 5,
+        "url": "http://bitly.com/2VkhloJ",
+        "year": 1775
+      },
+      "geometry": {
+        "coordinates": [
+          9.14,
+          51.48806
+        ],
+        "type": "Point"
+      },
+      "id": "place.15996719743355990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q3150",
+        "place_name": "Jena, Thüringen, Germany",
+        "what": "Clairmont Chapter. Johnson claims to be the  OT emisary. Arrested as impostor. ",
+        "year": 1764,
+        "month": 1,
+        "day": 3,
+        "url": "http://bitly.com/2VkhloJ"
+      },
+      "geometry": {
+        "coordinates": [
+          11.58639,
+          50.92722
+        ],
+        "type": "Point"
+      },
+      "id": "place.17202344770720260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1748",
+        "place_name": "København, Hovedstaden, Denmark",
+        "day": "",
+        "month": "",
+        "short_code": "",
+        "url": "",
+        "what": "The Danish GL joins the SO (1765 - 1776)",
+        "year": 1765
+      },
+      "geometry": {
+        "coordinates": [
+          12.56889,
+          55.67611
+        ],
+        "type": "Point"
+      },
+      "id": "place.6601895575025335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1055",
+        "place_name": "Hamburg, Hamburg, Germany",
+        "day": 19,
+        "month": 4,
+        "short_code": "",
+        "url": "",
+        "what": "Election of the Duke of Sudermania as GM. The Swedish Rite and the SO in conjunction.",
+        "year": 1777
+      },
+      "geometry": {
+        "coordinates": [
+          10,
+          53.55
+        ],
+        "type": "Point"
+      },
+      "id": "place.6626155103398860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1754",
+        "place_name": "Stockholm, Stockholms län, Sweden",
+        "day": 20,
+        "month": 4,
+        "short_code": "",
+        "url": "http://bitly.com/2VkhloJ",
+        "what": "Duke of Sudermania withdraws from the SO. ",
+        "year": 1780
+      },
+      "geometry": {
+        "coordinates": [
+          18.06861,
+          59.32944
+        ],
+        "type": "Point"
+      },
+      "id": "place.8989083981577552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1721",
+        "place_name": "Wiesbaden, Hessen, Germany",
+        "day": 15,
+        "month": 8,
+        "short_code": "",
+        "url": "http://bitly.com/2VkhloJ",
+        "what": "Convent in Wiesbaden (15.8. - 4.9.)  Gugomos exposed as impostor. Flees to NL and dies in Munich 1818.",
+        "year": 1776
+      },
+      "geometry": {
+        "coordinates": [
+          8.24136,
+          50.08208
+        ],
+        "type": "Point"
+      },
+      "id": "place.9727245983705140"
+    }
+  ],
+  "type": "FeatureCollection"
+}

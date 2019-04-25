@@ -1,0 +1,270 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "where": "Temple Bar, London",
+        "year": 1730,
+        "source": "Jones 1965: 39 Royal Arch",
+        "what": "A 'Scotch Masons Lodge' No. 115"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.111993,
+          51.513667
+        ],
+        "type": "Point"
+      },
+      "id": "5effa122d786aff190cce2d6d9da4387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "\"Royal Art\" occurs 23 times in Anderson 1723. (?) Jones suggest that Art may suggest Arch (??)",
+        "source": "Jones 1965: 37 Royal Arch",
+        "year": 1723
+      },
+      "geometry": {
+        "coordinates": [
+          -0.097262,
+          51.514002
+        ],
+        "type": "Point"
+      },
+      "id": "602a5fbe2c9eac107ad2ad9c7e122163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Lodge Dumfries: RA workings",
+        "year": 1757,
+        "source": "Jones 1965: 49 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.617046,
+          55.066872
+        ],
+        "type": "Point"
+      },
+      "id": "6e5a68e633bcadc80828e48fa9ce9eaf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "RA workings",
+        "year": 1762,
+        "month": 2,
+        "day": 7,
+        "source": "Jones 1965: 51 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.08195,
+          53.961662
+        ],
+        "type": "Point"
+      },
+      "id": "b32318fcae1f8466a5702fc785555202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "Rite de Boullion 'Royal Arch cum Templar'. Jones does not believe that this is a fact.",
+        "year": 1740,
+        "source": "Jones 1965: 42 Royal Arch",
+        "where": "London"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.111693,
+          51.513657
+        ],
+        "type": "Point"
+      },
+      "id": "d6cba345a8c30a0c0457dc205cc9bd25"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "what": "RA workings: Antients.",
+        "year": 1752,
+        "month": 3,
+        "day": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -0.111884,
+          51.513781
+        ],
+        "type": "Point"
+      },
+      "id": "ed6ebb1b2a3e3c7c8bf508faf601517b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q72259",
+        "place_name": "Portsmouth, Portsmouth, City Of Portsmouth, England, United Kingdom",
+        "what": "RA workings. Antients lodge. ",
+        "year": 1754,
+        "source": "Jones 1965: 50 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.0756,
+          50.8037
+        ],
+        "type": "Point"
+      },
+      "id": "locality.3577427197185310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q23154",
+        "place_name": "Bristol, City Of Bristol, England, United Kingdom",
+        "what": "RA workings. Moderns lodge. ",
+        "year": 1758,
+        "source": "Jones 1965: 50 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.58333,
+          51.45
+        ],
+        "type": "Point"
+      },
+      "id": "place.150970984129790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q492342",
+        "place_name": "Fredericksburg, Virginia, United States",
+        "what": "RA practised",
+        "year": 1753,
+        "source": "Jones 1965: 48 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4834,
+          38.2968
+        ],
+        "type": "Point"
+      },
+      "id": "place.16544611768116090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q54809",
+        "place_name": "Banff, Aberdeenshire, Scotland, United Kingdom",
+        "what": "Price for RA: two shillings",
+        "year": 1765,
+        "source": "Jones 1965: 50 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.524,
+          57.667
+        ],
+        "type": "Point"
+      },
+      "id": "place.2227296244059953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q23436",
+        "place_name": "Edinburgh, City Of Edinburgh, Scotland, United Kingdom",
+        "what": "RA workings",
+        "year": 1765,
+        "source": "Jones 1965: 49 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.19889,
+          55.95
+        ],
+        "type": "Point"
+      },
+      "id": "place.4726531986061176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q652035",
+        "place_name": "Dumfries, Dumfries And Galloway, Scotland, United Kingdom",
+        "what": "Ms. no. 4 - Catechism: No lodge or corum of mason shall give the Royal secret to any suddenly but upon great deliberation\"",
+        "year": 1710,
+        "url": "http://durandlodge.com/books/dumfries.pdf",
+        "source": "Jones 1965: 37 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.61667,
+          55.06667
+        ],
+        "type": "Point"
+      },
+      "id": "place.7344473879637727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1012476",
+        "place_name": "Youghal, Cork County, Ireland",
+        "what": "The phrase 'Royal Arch' in print for the first time in Ireland.: 'The Royal Arch carried by two Excellent Masons'. Jones is not sure that this is a degree, could be an ornament in the procession.",
+        "year": 1744,
+        "month": 1,
+        "day": 10,
+        "source": "Jones 1965: 45 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.8506,
+          51.95
+        ],
+        "type": "Point"
+      },
+      "id": "place.8246082364762090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q4093",
+        "place_name": "Glasgow, Glasgow City, Scotland, United Kingdom",
+        "what": "RA workings. Stirling records.",
+        "year": 1755
+      },
+      "geometry": {
+        "coordinates": [
+          -4.27,
+          55.87
+        ],
+        "type": "Point"
+      },
+      "id": "place.8634714122371967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q182923",
+        "place_name": "Stirling, Stirling, Scotland, United Kingdom",
+        "what": "RA practised. 'They were admitted Royal Arch'",
+        "year": 1743,
+        "source": "Jones 1965: 46 Royal Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.93583,
+          56.11944
+        ],
+        "type": "Point"
+      },
+      "id": "place.886540377312902"
+    }
+  ],
+  "type": "FeatureCollection"
+}

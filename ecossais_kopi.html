@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Slider - Range slider</title>
+  <link rel="stylesheet" href="bower_components/jquery-ui/themes/humanity/jquery-ui.css">
+  <link rel="stylesheet" href="css/css.css">
+  <script src="bower_components/jquery/dist/jquery.js"></script>
+  <script src="bower_components/jquery-ui/jquery-ui.js"></script>
+
+  <!-- mapbox -->
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    body {
+      margin:0;
+      padding:0;
+    }
+    #map {
+    width:100%;
+    height: 600px;
+  }
+
+    .marker {
+  /*background-image: url('mapbox-icon.png');*/
+  background-color: red;
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1 px solid #000;
+  cursor: pointer;
+}
+
+.mapboxgl-popup {
+  max-width: 200px;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+  </style>
+
+<script>
+$(document).ready(function(){
+
+  let showSelected = function(a,z){
+
+    // get data
+    $.getJSON("js/stAndrew.geojson", function(json) {
+      //console.log(json); // ok
+      //console.log('from: ' + a + ' to: ' + z); // ok
+      //console.log(json.features[0].geometry.coordinates); // ok
+
+      // Mapbox
+      mapboxgl.accessToken = 'pk.eyJ1IjoiYXNhdGhvb3IiLCJhIjoiY2oyd3hlbzU3MDA5NzJxbm9iMjczanJndCJ9.HahDB7Z1rrD5THIYQh6t4g';
+      const map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/asathoor/cju2l8xd307yp1gs48wjaq5xo',
+        center: [10.000, 60.0],
+        zoom: 3.0,
+      });
+
+      // Add zoom and rotation controls to the map.
+      map.addControl(new mapboxgl.NavigationControl());
+
+      // array in order to save and sort data
+      // format: year, what
+      // will also clear data
+      historik = new Array();
+
+      // clear the #info box
+      $('#info').html('');
+
+      for( i = 0; i < json.features.length ; i++ ){
+
+        if (json.features[i].properties.year >= a && json.features[i].properties.year <= z) { // ok
+
+          // console.log(json.features[i].properties.year);
+
+          // create a HTML element for each feature
+          var el = document.createElement('div');
+          el.className = 'marker';
+
+          // check whether year is defined
+          if(json.features[i].properties.year){
+            year = json.features[i].properties.year;
+          }
+          else {
+            year = '';
+          }
+
+          // check whether what is defined
+          if(json.features[i].properties.what){
+            what = json.features[i].properties.what;
+          }
+          else {
+            what = '';
+          }
+
+          // check whether month is defined
+          if(json.features[i].properties.month){
+            month = json.features[i].properties.month;
+          }
+          else {
+            month = '';
+          }
+
+          // check whether day is defined
+          if(json.features[i].properties.day){
+              = json.features[i].properties.what;
+          }
+          else {
+            what = '';
+          }
+
+          // +year, +month, day, +what, url, source
+
+          // save our findings
+          historik.push( [year, what] );
+
+          // make a marker for each feature and add to the map
+          new mapboxgl.Marker(el)
+            .setLngLat(json.features[i].geometry.coordinates)
+            .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
+            .setHTML('<strong>' + year + '</strong><br>' + what + '</p>'))
+            .addTo(map);
+          }
+        }
+
+        // write sorted data to the infobox
+        // options: +year, month, day, +what, url, source
+        historik.sort(); // sort Array
+
+        for (n=0;n<historik.length;n++){ // add to #info
+          $('#info').append( '<div class="info historik">'
+          + historik[n][0]
+          + ': '
+          + historik[n][1]
+          + '</div>');
+        }
+
+    });
+  }
+
+  // initial map
+  showSelected('1717','1718');
+
+  // Buttons
+  $('#btn1').click(function(){
+    showSelected(1660,1680);
+  });
+
+  $('#btn2').click(function(){
+    showSelected(1680,1700);
+  });
+
+  $('#btn3').click(function(){
+    showSelected(1700,1720);
+  });
+
+  $('#btn4').click(function(){
+    showSelected(1720,1740);
+  });
+
+  $('#btn5').click(function(){
+    showSelected(1740,1760);
+  });
+
+  $('#btn6').click(function(){
+    showSelected(1760,1780);
+  });
+
+  $('#btn7').click(function(){
+    showSelected(1780,1800);
+  });
+
+  $('#btn8').click(function(){
+    showSelected(1800,1820);
+  });
+
+  $('#btn9').click(function(){
+    showSelected(1820,1840);
+  });
+
+  $('#btn10').click(function(){
+    showSelected(1840,1860);
+  });
+
+  $('#btn11').click(function(){
+    showSelected(0,2100);
+  });
+
+  $('#btn12').click(function(){
+    showSelected(0,0);
+  });
+
+
+
+}); // end doc ready
+  </script>
+</head>
+
+<body>
+  <h1>Early Development ca. 1717 - 1840</h1>
+
+<div id="map"></div>
+
+  <div id="btns">
+    <button id="btn1">1660 - 1680</button>
+    <button id="btn2">1680 - 1700</button>
+    <button id="btn3">1700 - 1720</button>
+    <button id="btn4">1720 - 1740</button>
+    <button id="btn5">1740 - 1760</button>
+    <button id="btn6">1760 - 1780</button>
+    <button id="btn7">1780 - 1800</button>
+    <button id="btn8">1800 - 1820</button>
+    <button id="btn9">1820 - 1840</button>
+    <button id="btn10">1840 - 1860</button>
+    <button id="btn11">Show all</button>
+    <button id="btn12">Hide all</button>
+  </div>
+
+  <div id="info"></div>
+
+</body>
+
+</html>

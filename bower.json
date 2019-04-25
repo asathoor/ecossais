@@ -1,0 +1,26 @@
+{
+  "name": "ecossais",
+  "authors": [
+    "Per Thykjaer Jensen (PETJ) <asathoor@gmail.com>"
+  ],
+  "description": "emergence of the ecossais rites",
+  "main": "",
+  "keywords": [
+    "ecossais",
+    "st",
+    "andrew",
+    "lodge"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "jqueryui#^1.12.1"
+  }
+}
