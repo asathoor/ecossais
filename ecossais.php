@@ -47,15 +47,11 @@
         <a href="https://en.wikipedia.org/wiki/Jacobite_risings">Jacobite Risings: 1689, 1696, 1708, 1715, 1719, 1744 - 1745, 1759</a>
       </nav>
 
-
     </div><!-- .wrapper -->
 
     <footer>
       &copy; Per Thykjær Jensen, 2019
     </footer>
 
-
-
-</body>
 </body>
 </html>
