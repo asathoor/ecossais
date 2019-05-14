@@ -24,3 +24,6 @@
    <link href='css/css.css' rel='stylesheet' />
  </head>
  <body>
+   <header>
+     <h1>Ecossais Lodges 1700 - 1800</h1>
+   </header>

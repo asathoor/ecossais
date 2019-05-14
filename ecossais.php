@@ -20,10 +20,9 @@
 
 <body>
 
+  <div id="map"></div>
 
-      <div id="map"></div>
-
-<div class="wrapper">
+  <div class="wrapper">
 
       <div>
         <h1>Development of the Ecossais Lodges</h1>
@@ -49,9 +48,10 @@
 
     </div><!-- .wrapper -->
 
-    <footer>
-      &copy; Per Thykjær Jensen, 2019
-    </footer>
+  <footer>
+    &copy; Per Thykjær Jensen, 2019
+  </footer>
+
   <script src="js/ecossais.js"></script>
 </body>
 </html>

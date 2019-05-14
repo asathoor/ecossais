@@ -1,11 +1,5 @@
 <?php include 'header.php'; ?>
 
-  <header>
-    <h1>Forskningsseminar Maj 2019</h1>
-    <h2>Stammer de Sk&therefore; L&therefore; fra Skotland?</h2>
-    <h3>Per Thykjær Jensen, X DM FRMÜ</h3>
-  </header>
-
 <nav id="forsideMenu">
   <ul>
     <li><a href="ecossais.php">St. Andrew Lodges</a></li>

@@ -19,9 +19,11 @@
 </head>
 
 <body>
-  <div class="wrapper">
+
 
       <div id="map"></div>
+
+  <div class="wrapper">
 
       <div>
         <h1>Early Royal Arch Lodges</h1>

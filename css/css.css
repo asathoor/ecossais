@@ -56,7 +56,7 @@ td {
 
 /* Map styles */
 #map {
-  width: 80%;
+  width: 90%;
   height: 500px;
   margin-left: auto;
   margin-right:auto;
@@ -85,6 +85,9 @@ td {
 /* Grid */
 .wrapper {
   display: grid;
-  grid-template-columns: auto auto;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  grid-template-columns: 66% 44%;
   grid-column-gap: 50px;
 }

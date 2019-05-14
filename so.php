@@ -19,9 +19,10 @@
 </head>
 
 <body>
-  <div class="wrapper">
 
-      <div id="map"></div>
+  <div id="map"></div>
+
+  <div class="wrapper">
 
       <div>
         <h1>The Rite of Strict Observance</h1>
@@ -43,7 +44,6 @@
         <!-- button class="ui-button ui-widget ui-corner-all" id="btn8">1800 - 1820</button><br>
         <button class="ui-button ui-widget ui-corner-all" id="btn9">1820 - 1840</button><br>
         <button class="ui-button ui-widget ui-corner-all" id="btn10">1840 - 1860</button -->
-        <a href="https://en.wikipedia.org/wiki/Jacobite_risings">Jacobite Risings: 1689, 1696, 1708, 1715, 1719, 1744 - 1745, 1759</a>
       </nav>
 
 </div><!-- .wrapper -->
@@ -51,9 +51,5 @@
     <footer>
       &copy; Per Thykjær Jensen, 2019
     </footer>
-
-
-
 </body>
-
 </html>

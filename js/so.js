@@ -87,7 +87,7 @@ $(document).ready(function(){
           // +year, +month, +day, +what, +url, source
 
           // save our findings
-          historik.push( [year, what] );
+          historik.push( [year, what, url, source] );
 
           // make a marker for each feature and add to the map
           new mapboxgl.Marker(el)
@@ -106,9 +106,9 @@ $(document).ready(function(){
           $('#info').append( '<tr>'
           + '<td>' +  historik[n][0] + '</td>'
           + '<td>'  + historik[n][1]
-          + '<span class="source">' + source + '</span>'
-          + url
-          + '<br>'
+          + '<span class="source">' + historik[n][3]
+          + historik[n][2]
+          + '</span>'
           +  '</td>'
           + '</tr>');
         }
