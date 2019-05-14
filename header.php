@@ -4,16 +4,23 @@
     project: ecossais data visualisering
   **/
  ?>
+ <!doctype html>
+ <html lang="en">
 
-<!DOCTYPE html>
-<html lang="en">
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="css/css.css">
-  <title>Forskningsseminar Odense 18. - 19. maj 2019</title>
-</head>
+   <title>Development of the Ecossais Lodges</title>
 
-<body>
+   <!-- jquery -->
+   <link rel="stylesheet" href="bower_components/jquery-ui/themes/humanity/jquery-ui.css">
+   <script src="bower_components/jquery/dist/jquery.js"></script>
+   <script src="bower_components/jquery-ui/jquery-ui.js"></script>
+
+   <!-- mapbox -->
+   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js'></script>
+   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
+   <link href='css/css.css' rel='stylesheet' />
+ </head>
+ <body>
