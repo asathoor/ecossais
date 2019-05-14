@@ -7,7 +7,7 @@ body {
 
 a {
   color: #75e06b;
-  font-size: 75%;
+  text-decoration: none;
 }
 
 header, footer {
@@ -31,9 +31,12 @@ nav {
   font-size: 200%;
 }
 
+#risings {
+  text-align: center;
+}
+
 button {
-  width: 200px;
-  background-color: orange;
+  width: 150px;
 }
 
 td {
@@ -50,15 +53,6 @@ td {
 .source {
   font-size: 75%;
 }
-
-/* Grid */
-
-/*
-.wrapper {
-  display: grid;
-  grid-template-columns: 60% auto auto;
-}
-*/
 
 /* Map styles */
 #map {
@@ -86,4 +80,11 @@ td {
 .mapboxgl-popup-content {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+}
+
+/* Grid */
+.wrapper {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-column-gap: 50px;
 }
