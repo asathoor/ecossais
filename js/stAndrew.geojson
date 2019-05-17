@@ -642,23 +642,6 @@
     {
       "type": "Feature",
       "properties": {
-        "wikidata": "Q6397",
-        "place_name": 1776,
-        "year": 1740,
-        "source": "Carleson, Acta 21: 57"
-      },
-      "geometry": {
-        "coordinates": [
-          4.80833,
-          43.94861
-        ],
-        "type": "Point"
-      },
-      "id": "place.6646682874748330"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "wikidata": "Q1794",
         "place_name": "Frankfurt am Main, Hessen, Germany",
         "what": "Carl G. von Hund initiated I.",

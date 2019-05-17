@@ -4,9 +4,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>jQuery UI Slider - Range slider</title>
+
+  <title>Development of the Ecossais Lodges</title>
+
+  <!-- jquery -->
   <link rel="stylesheet" href="bower_components/jquery-ui/themes/humanity/jquery-ui.css">
-  <link rel="stylesheet" href="css/css.css">
   <script src="bower_components/jquery/dist/jquery.js"></script>
   <script src="bower_components/jquery-ui/jquery-ui.js"></script>
 
@@ -14,15 +16,13 @@
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
   <link href='css/css.css' rel='stylesheet' />
-
-  <!-- scripts: load geoJson data and the marker script -->
-  <script src="js/ecossais.js"></script>
 </head>
 
 <body>
-  <div class="wrapper">
 
-      <div id="map"></div>
+  <div id="map"></div>
+
+  <div class="wrapper">
 
       <div>
         <h1>Development of the Ecossais Lodges</h1>
@@ -44,14 +44,14 @@
         <button class="ui-button ui-widget ui-corner-all" id="btn8">1800 - 1820</button><br>
         <button class="ui-button ui-widget ui-corner-all" id="btn9">1820 - 1840</button><br>
         <button class="ui-button ui-widget ui-corner-all" id="btn10">1840 - 1860</button><br>
-        <a href="https://en.wikipedia.org/wiki/Jacobite_risings">Jacobite Risings: 1689, 1696, 1708, 1715, 1719, 1744 - 1745, 1759</a>
       </nav>
 
     </div><!-- .wrapper -->
 
-    <footer>
-      &copy; Per Thykjær Jensen, 2019
-    </footer>
+  <footer>
+    &copy; Per Thykjær Jensen, 2019
+  </footer>
 
+  <script src="js/ecossais.js"></script>
 </body>
 </html>
